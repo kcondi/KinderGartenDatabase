@@ -1,0 +1,1 @@
+select grupa.Id,grupa.Ime,grupa.Smjena from Grupa grupa join Grupa_Igracka Connection on Connection.GrupaId = grupa.Id join Igracka_Vrsta Connection2 on Connection.IgrackaId = Connection2.IgrackaId where Connection2.VrstaId=1

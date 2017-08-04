@@ -1,0 +1,1 @@
+select Teta.placa from Teta teta join Teta_Grupa Connection on Connection.TetaId = Teta.Id join Grupa grupa on Connection.GrupaId = Grupa.Id where Grupa.Ime LIKE 'Pred%'

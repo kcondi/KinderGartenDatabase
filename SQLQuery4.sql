@@ -1,0 +1,1 @@
+select * from Djeca where Ime_djeteta LIKE 'I%'

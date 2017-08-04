@@ -1,0 +1,9 @@
+1. Stvara database
+2. Stvara tablice i odnose meðu njima
+3. Puni tablice
+4. Izlistava svu djecu èije ime poèinje sa I
+5. Izlistava djecu koja pripadaju grupi 'Predskolci 2'
+6. Izlistava plaæe teta koje rade u grupama koje poèinju sa 'Pred'
+7. Izlistava sve igraèke sa pripadnim informacijama. Igraèke sa više
+   kategorija izlistava više puta.
+8. Izlistava informacije o grupama koje sadrže igraèke koje spadaju u 'intelektualnu' kategoriju.
